@@ -4,7 +4,7 @@ hero:
     desc: 用于构建现代网站和应用程序的开源 React UI 组件库。
     actions:
         - text: Github
-          link: https://git.caibeike.net/static/caibeike-cshell-static/tree/next
+          link: https://github.com/1715215176/dull-design
         - text: 文档
           link: /components
 features:
